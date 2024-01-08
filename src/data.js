@@ -4,8 +4,8 @@
 const { colors } = require('./theme');
 
 module.exports = {
-  user: 'nick-gabe',
-  startedProgramming: '9/10/2020',
+  user: 'lucas-bernardes03',
+  startedProgramming: '1/7/2021',
   repoQuantity: 6,
   header: {
     styles: {
@@ -15,26 +15,20 @@ module.exports = {
       logoColor: colors.lightSecondary.over,
     },
     image: {
-      src: 'src/resources/images/nickgabe.png',
+      src: '',
       width: 600,
     },
-    description: "👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.",
+    description: "👋",
     badges: [
       {
         type: 'badge',
         name: 'twitter',
-        href: 'https://twitter.com/imnickgabe',
+        href: 'https://twitter.com/lbernardes03',
       },
       {
         type: 'badge',
         name: 'linkedin',
-        href: 'https://linkedin.com/in/nickgabe',
-      },
-      {
-        type: 'badge',
-        name: 'website',
-        href: 'https://nickgabe.vercel.app',
-        logo: 'esri',
+        href: 'https://linkedin.com/in/lucas-bernardes03',
       },
       {
         type: 'views',
@@ -42,7 +36,7 @@ module.exports = {
     ],
   },
   aboutme: {
-    list: ['* Nícolas Gabriel, 19 years', '* Full Stack programmer', '* Currently studying Python'],
+    list: ['* Lucas Bernardes, 20 years', '* Full Stack Developer'],
   },
   skillswall: {
     styles: {
@@ -53,46 +47,34 @@ module.exports = {
     },
     randomOrder: true,
     skills: [
-      { name: 'JavaScript', isHighlighted: true },
+      { name: 'Java', isHighlighted: true },
       { name: 'HTML5' },
-      { name: 'Markdown' },
       { name: 'CSS3', isHighlighted: true },
       { name: 'Python' },
       { name: 'Shell Script', logo: 'gnu-bash' },
-      { name: 'React', isHighlighted: true },
+      { name: 'React'},
       { name: 'React Native', logo: 'react' },
       { name: 'jQuery' },
       { name: 'SASS' },
-      { name: 'Ant-Design', isHighlighted: true },
-      { name: 'GraphQL' },
-      { name: 'Chakra', logo: 'chakraui' },
+      { name: 'Angular', isHighlighted: true },
       { name: 'Bootstrap' },
-      { name: 'Node.JS', isHighlighted: true },
-      { name: 'Jest' },
-      { name: 'Strapi' },
-      { name: 'Express.js', logo: 'express' },
-      { name: 'FastAPI', isHighlighted: true },
-      { name: 'Flask' },
-      { name: 'Styled Components' },
-      { name: 'TailwindCSS', isHighlighted: true },
-      { name: 'Firebase' },
-      { name: 'MongoDB' },
-      { name: 'SQLite' },
+      { name: 'Node.JS' },
+      { name: 'FastAPI' },
+      { name: 'TailwindCSS'},
+      { name: 'MySQL' },
+      { name: 'Kubernetes' },
+      { name: 'PostgreSQL' },
       { name: 'TypeScript', isHighlighted: true },
-      { name: 'Netlify' },
-      { name: 'Vercel' },
       { name: 'Heroku' },
       { name: 'Github Pages', logo: 'github' },
       { name: 'Photoshop', logo: 'adobe-photoshop' },
       { name: 'Figma' },
-      { name: 'Storybook' },
       { name: 'NPM' },
       { name: 'Git', isHighlighted: true },
       { name: 'GitHub' },
       { name: 'Visual Studio Code' },
       { name: 'Docker', isHighlighted: true },
       { name: 'Jira' },
-      { name: 'GitHub Actions', isHighlighted: true },
     ],
   },
   recentworks: {
@@ -114,30 +96,17 @@ module.exports = {
     links: [
       {
         name: 'twitter',
-        href: 'https://twitter.com/imnickgabe',
+        href: 'https://twitter.com/lbernardes03',
       },
       {
         name: 'linkedin',
-        href: 'https://linkedin.com/in/nickgabe',
+        href: 'https://linkedin.com/in/lucas-bernardes03',
       },
       {
         name: 'email',
         logo: 'gmail',
-        href: 'mailto:nicolasgabrielctt@gmail.com',
-      },
-      {
-        name: 'npm',
-        href: 'https://www.npmjs.com/~nick-gabe',
-      },
-      {
-        name: 'codepen',
-        href: 'https://codepen.io/nick-gabe',
-      },
-      {
-        name: 'imnickgabe',
-        logo: 'discord',
-        labelColor: colors.secondary.base,
-      },
+        href: 'mailto:lucasbernardes24@gmail.com',
+      }
     ],
   },
   githubStats: {
