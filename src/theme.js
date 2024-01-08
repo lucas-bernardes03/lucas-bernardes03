@@ -4,15 +4,15 @@ const white = '#F2F2F2';
 module.exports = {
   colors: {
     primary: {
-      base: '#F73C7B',
+      base: '#42a425',
       over: white,
     },
     secondary: {
-      base: '#393359',
+      base: '#21361e',
       over: white,
     },
     lightSecondary: {
-      base: '#4D4577',
+      base: '#2d4b2b',
       over: white,
     },
     black: {
