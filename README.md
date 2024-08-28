@@ -4,7 +4,7 @@
 
 ## **About me:**
 
-* Lucas Bernardes, 20 years
+* Lucas Bernardes, 2003
 * Working since Aug/2022 as a Fullstack Developer
 * 2 Years, 5 Months and 8 Days since I started programming
 
